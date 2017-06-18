@@ -394,6 +394,7 @@ pre {
   padding-right: 2em;
 }
 .site-navigation {
+  text-align: center;
   color: #aaa;
   text-transform: uppercase;
   font-size: 14px;
@@ -403,6 +404,12 @@ pre {
   font-weight: 300;
   padding-top: 5em;
 }
+.site-navigation .site-top{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    padding: 20px;
+  }
 .page-title {
   text-transform: uppercase;
   letter-spacing: 2px;
