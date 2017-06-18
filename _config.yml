@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Shiki's Blog
+email: 852912427@qq.com
+description: A front-end Dev Engineer
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ShikiZhang.github.io/" # the base hostname & protocol for your site
+github_username:  ShikiZhang
+paginate: 5
+
+gems: [jekyll-paginate, kramdown]
+# Build settings
+markdown: kramdown
