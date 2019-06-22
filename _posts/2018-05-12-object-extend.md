@@ -2,7 +2,7 @@
 layout: post
 title: "构造函数与继承"
 subtitle: ' "创建对象与实现继承"'
-date: 2019-05-12 22:37:13
+date: 2018-05-12 22:37:13
 author: "Shiki"
 tags:
   - JavaScript
